@@ -1,0 +1,372 @@
+[
+    {
+        "productName": "iPhone 15 Pro",
+        "description": "iPhone 15 Pro with A17 chip and improved camera",
+        "price": 90000,
+        "availableStock": 15
+    },
+    {
+        "productName": "iPhone 15 Pro Max",
+        "description": "iPhone 15 Pro Max with 5x zoom and titanium frame",
+        "price": 110000,
+        "availableStock": 10
+    },
+    {
+        "productName": "iPhone 14",
+        "description": "iPhone 14 with A15 chip and dual camera system",
+        "price": 75000,
+        "availableStock": 20
+    },
+    {
+        "productName": "iPhone 14 Pro",
+        "description": "iPhone 14 Pro with Dynamic Island and Always-On Display",
+        "price": 85000,
+        "availableStock": 12
+    },
+    {
+        "productName": "iPhone 13 Mini",
+        "description": "Compact iPhone 13 Mini with A15 Bionic chip",
+        "price": 65000,
+        "availableStock": 18
+    },
+    {
+        "productName": "MacBook Air M2",
+        "description": "MacBook Air with M2 chip, Liquid Retina display, and MagSafe",
+        "price": 120000,
+        "availableStock": 8
+    },
+    {
+        "productName": "MacBook Pro M2",
+        "description": "MacBook Pro 14-inch with M2 Pro chip and Liquid Retina XDR",
+        "price": 180000,
+        "availableStock": 5
+    },
+    {
+        "productName": "MacBook Pro M1",
+        "description": "MacBook Pro with M1 chip and 20-hour battery life",
+        "price": 150000,
+        "availableStock": 7
+    },
+    {
+        "productName": "Samsung Galaxy S23 Ultra",
+        "description": "Samsung S23 Ultra with 200MP camera and S-Pen support",
+        "price": 110000,
+        "availableStock": 14
+    },
+    {
+        "productName": "Samsung Galaxy S23",
+        "description": "Samsung Galaxy S23 with Snapdragon 8 Gen 2 processor",
+        "price": 95000,
+        "availableStock": 16
+    },
+    {
+        "productName": "Google Pixel 8 Pro",
+        "description": "Pixel 8 Pro with Tensor G3 chip and advanced AI features",
+        "price": 105000,
+        "availableStock": 9
+    },
+    {
+        "productName": "Google Pixel 7",
+        "description": "Google Pixel 7 with Tensor chip and improved Night Sight",
+        "price": 85000,
+        "availableStock": 11
+    },
+    {
+        "productName": "OnePlus 11",
+        "description": "OnePlus 11 with Snapdragon 8 Gen 2 and 120Hz AMOLED display",
+        "price": 75000,
+        "availableStock": 13
+    },
+    {
+        "productName": "OnePlus Nord 3",
+        "description": "OnePlus Nord 3 with MediaTek Dimensity 9000",
+        "price": 45000,
+        "availableStock": 20
+    },
+    {
+        "productName": "AirPods Pro 2",
+        "description": "Apple AirPods Pro 2 with Adaptive Transparency and Spatial Audio",
+        "price": 25000,
+        "availableStock": 30
+    },
+    {
+        "productName": "Sony WH-1000XM5",
+        "description": "Sony WH-1000XM5 noise-canceling headphones",
+        "price": 30000,
+        "availableStock": 10
+    },
+    {
+        "productName": "iPad Pro M2",
+        "description": "Apple iPad Pro with M2 chip and Apple Pencil hover support",
+        "price": 95000,
+        "availableStock": 8
+    },
+    {
+        "productName": "Samsung Galaxy Tab S9",
+        "description": "Samsung Galaxy Tab S9 with AMOLED display",
+        "price": 85000,
+        "availableStock": 7
+    },
+    {
+        "productName": "Apple Watch Ultra",
+        "description": "Apple Watch Ultra for extreme sports and diving",
+        "price": 89000,
+        "availableStock": 12
+    },
+    {
+        "productName": "Garmin Fenix 7",
+        "description": "Garmin Fenix 7 rugged smartwatch with GPS and solar charging",
+        "price": 75000,
+        "availableStock": 5
+    },
+    {
+        "productName": "Dell XPS 13",
+        "description": "Dell XPS 13 laptop with Intel i7 and OLED display",
+        "price": 140000,
+        "availableStock": 6
+    },
+    {
+        "productName": "Asus ROG Zephyrus G14",
+        "description": "Asus ROG Zephyrus G14 gaming laptop with Ryzen 9 and RTX 4060",
+        "price": 160000,
+        "availableStock": 4
+    },
+    {
+        "productName": "Sony PlayStation 5",
+        "description": "Sony PlayStation 5 with ultra-fast SSD and 4K gaming",
+        "price": 55000,
+        "availableStock": 25
+    },
+    {
+        "productName": "Xbox Series X",
+        "description": "Xbox Series X with 12 teraflops of power and 4K gaming",
+        "price": 50000,
+        "availableStock": 18
+    },
+    {
+        "productName": "Nintendo Switch OLED",
+        "description": "Nintendo Switch OLED with vibrant display and enhanced audio",
+        "price": 35000,
+        "availableStock": 22
+    },
+    {
+        "productName": "GoPro Hero 11",
+        "description": "GoPro Hero 11 action camera with HyperSmooth stabilization",
+        "price": 45000,
+        "availableStock": 9
+    },
+    {
+        "productName": "DJI Mini 3 Pro",
+        "description": "DJI Mini 3 Pro lightweight drone with 4K HDR video",
+        "price": 90000,
+        "availableStock": 7
+    },
+    {
+        "productName": "Bose QuietComfort 45",
+        "description": "Bose QuietComfort 45 wireless noise-canceling headphones",
+        "price": 32000,
+        "availableStock": 11
+    },
+    {
+        "productName": "Samsung Galaxy Watch 6",
+        "description": "Samsung Galaxy Watch 6 with advanced health tracking",
+        "price": 32000,
+        "availableStock": 10
+    },
+    {
+        "productName": "iPhone 15 Pro",
+        "description": "iPhone 15 Pro with A17 chip and improved camera",
+        "price": 90000,
+        "availableStock": 15,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Samsung Galaxy S23 Ultra",
+        "description": "Samsung S23 Ultra with 200MP camera and S-Pen support",
+        "price": 110000,
+        "availableStock": 14,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Google Pixel 8 Pro",
+        "description": "Pixel 8 Pro with Tensor G3 chip and advanced AI features",
+        "price": 105000,
+        "availableStock": 9,
+        "category": "Electronics"
+    },
+    {
+        "productName": "MacBook Air M2",
+        "description": "MacBook Air with M2 chip, Liquid Retina display, and MagSafe",
+        "price": 120000,
+        "availableStock": 8,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Dell XPS 13",
+        "description": "Dell XPS 13 laptop with Intel i7 and OLED display",
+        "price": 140000,
+        "availableStock": 6,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Sony PlayStation 5",
+        "description": "Sony PlayStation 5 with ultra-fast SSD and 4K gaming",
+        "price": 55000,
+        "availableStock": 25,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Bose QuietComfort 45",
+        "description": "Bose QuietComfort 45 wireless noise-canceling headphones",
+        "price": 32000,
+        "availableStock": 11,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Nike Air Max 90",
+        "description": "Nike Air Max 90 sneakers with premium comfort and design",
+        "price": 12000,
+        "availableStock": 30,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Adidas Ultraboost 22",
+        "description": "Adidas Ultraboost 22 running shoes with responsive cushioning",
+        "price": 15000,
+        "availableStock": 20,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Rolex Submariner",
+        "description": "Rolex Submariner luxury diving watch with automatic movement",
+        "price": 800000,
+        "availableStock": 2,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Ray-Ban Aviator Sunglasses",
+        "description": "Ray-Ban classic Aviator sunglasses with polarized lenses",
+        "price": 9000,
+        "availableStock": 50,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Levi's 511 Slim Fit Jeans",
+        "description": "Levi's 511 slim fit jeans for a modern, stylish look",
+        "price": 4000,
+        "availableStock": 40,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Zara Leather Jacket",
+        "description": "Zara genuine leather jacket with stylish fit",
+        "price": 12000,
+        "availableStock": 15,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Apple Watch Series 9",
+        "description": "Apple Watch Series 9 with fitness tracking and ECG",
+        "price": 45000,
+        "availableStock": 10,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Samsung 55-inch OLED TV",
+        "description": "Samsung OLED TV with 4K HDR and 120Hz refresh rate",
+        "price": 95000,
+        "availableStock": 7,
+        "category": "Electronics"
+    },
+    {
+        "productName": "HP Spectre x360",
+        "description": "HP Spectre x360 convertible laptop with 16GB RAM",
+        "price": 135000,
+        "availableStock": 5,
+        "category": "Electronics"
+    },
+    {
+        "productName": "DJI Mavic 3 Drone",
+        "description": "DJI Mavic 3 with 5.1K video recording and obstacle avoidance",
+        "price": 160000,
+        "availableStock": 3,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Samsung Smart Refrigerator",
+        "description": "Samsung Family Hub smart refrigerator with touchscreen",
+        "price": 180000,
+        "availableStock": 4,
+        "category": "Home Appliances"
+    },
+    {
+        "productName": "Nike Dri-FIT T-shirt",
+        "description": "Nike Dri-FIT t-shirt with moisture-wicking technology",
+        "price": 2000,
+        "availableStock": 100,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Gucci Handbag",
+        "description": "Gucci luxury handbag with premium leather finish",
+        "price": 220000,
+        "availableStock": 3,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Tommy Hilfiger Polo Shirt",
+        "description": "Tommy Hilfiger classic polo shirt in various colors",
+        "price": 5000,
+        "availableStock": 35,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Apple iPad Air 5",
+        "description": "Apple iPad Air 5th Gen with M1 chip and Liquid Retina",
+        "price": 75000,
+        "availableStock": 12,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Canon EOS R5",
+        "description": "Canon EOS R5 mirrorless camera with 8K video recording",
+        "price": 350000,
+        "availableStock": 6,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Samsung Galaxy Z Flip 5",
+        "description": "Samsung foldable phone with Snapdragon 8 Gen 2",
+        "price": 115000,
+        "availableStock": 9,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Sony WH-CH720N",
+        "description": "Sony noise-canceling Bluetooth headphones",
+        "price": 25000,
+        "availableStock": 14,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Louis Vuitton Wallet",
+        "description": "Louis Vuitton premium leather wallet",
+        "price": 85000,
+        "availableStock": 10,
+        "category": "Fashion"
+    },
+    {
+        "productName": "Asus ROG Phone 7",
+        "description": "Gaming smartphone with Snapdragon 8 Gen 2 and 165Hz screen",
+        "price": 90000,
+        "availableStock": 7,
+        "category": "Electronics"
+    },
+    {
+        "productName": "Samsung Smart Washing Machine",
+        "description": "Samsung front-load smart washing machine with AI wash",
+        "price": 75000,
+        "availableStock": 5,
+        "category": "Home Appliances"
+    }
+]
