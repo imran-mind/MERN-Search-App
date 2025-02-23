@@ -1,4 +1,4 @@
-# **Search API - README**
+# **Full Stack/MERN Search API -**
 
 ## **1. Use Cases**
 
