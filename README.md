@@ -1,4 +1,4 @@
-# **Full Stack/MERN Search API -**
+# **Search API - README**
 
 ## **1. Use Cases**
 
@@ -114,7 +114,7 @@
 
 ---
 
-**Author:** Imran Shaikh
+**Author:** _Imran Shaikh_
 
-**Last Updated:** 23 Feb 2025
+**Last Updated:** _23 Feb 2025_
 
